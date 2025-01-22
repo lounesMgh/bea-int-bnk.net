@@ -3,6 +3,7 @@
 }
 
 .construction-image {
+<<<<<<< HEAD
     max-height: 290px;
 }
 .gear-icon {
@@ -37,6 +38,11 @@
         transform: rotate(0deg) ;
     }
 }
+=======
+    max-height: 300px;
+}
+
+>>>>>>> a507584dd4546e882eafe26597c89294c9835c52
 @media (min-width: 992px) {
     .logo {
         max-height: 200px;
@@ -47,6 +53,7 @@
     .construction-image {
         margin-top: 5rem;
     }
+<<<<<<< HEAD
     .marginPetitReglage{
         margin-bottom: -10rem;
         margin-right: 12rem;
@@ -63,4 +70,6 @@
         max-height: 80px;
         animation: rotate360Renverse 2s linear infinite;
     }
+=======
+>>>>>>> a507584dd4546e882eafe26597c89294c9835c52
 }
